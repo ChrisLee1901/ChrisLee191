@@ -40,15 +40,20 @@ AI-powered document processing application using Retrieval-Augmented Generation 
 ### 🎮 [Rock Paper Scissors Game](https://github.com/ChrisLee1901/rock_paper_scissor_game)
 Interactive game implementation with clean code structure and user-friendly interface, demonstrating fundamental programming concepts.
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisLee1901&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Chris Lee's GitHub Stats" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisLee1901&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLee1901&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrisLee1901&theme=tokyonight&hide_border=true)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLee1901&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 💻 Languages & Technologies
+Based on my repositories: **Jupyter Notebook**, **Python**, **TypeScript**, **JavaScript**, **CSS**, **HTML**
 
 ## 🌱 Currently Working On
 - 🏆 **Competitive Data Science** - Participating in Kaggle competitions and ML challenges
