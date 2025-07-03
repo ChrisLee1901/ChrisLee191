@@ -1,12 +1,7 @@
 # Hi there, I'm Chris Lee! 👋
 
 ## 🚀 About Me
-I study **Data Engineering** and **Full-Stack Developer** specializing in AI-powered applications and advanced statistical analysis. With a strong focus on statistical analysis, machine learning, and data-driven solutions. I love turning complex data into actionable insights and building innovative applications.
-### 🎯 Current Focus Areas:
-- **AI/ML Integration**: Building TypeScript applications with Python ML backends
-- **Statistical Research**: Advanced modeling and academic research projects  
-- **Modern Data Science**: Latest Python libraries and ML methodologies
-- **Academic Excellence**: Contributing to research and educational projects
+I'm a passionate **Data Scientist** and **Software Developer** who loves solving complex problems through code and data. I enjoy exploring new technologies, building practical applications, and turning ideas into reality through programming and analytics.
 
 ## 🔧 Technologies & Tools
 
@@ -21,6 +16,11 @@ I study **Data Engineering** and **Full-Stack Developer** specializing in AI-pow
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+### AI & Machine Learning
+![Google AI](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -28,17 +28,17 @@ I study **Data Engineering** and **Full-Stack Developer** specializing in AI-pow
 
 ## 📊 Recent Projects
 
-### 🤖 [NotebookLM Mastra](https://github.com/ChrisLee1901/notebooklm-mastra) *Latest*
-Advanced TypeScript application integrating AI-powered document processing and notebook management. Features modern web technologies and intelligent content analysis capabilities.
+### 🏆 [Kaggle Competitions](https://github.com/ChrisLee1901/kaggle)
+Collection of machine learning solutions and data science competitions, showcasing various ML techniques and problem-solving approaches.
 
-### 🔬 [Data Science Portfolio](https://github.com/ChrisLee1901/Data_Science) *Updated*
-Latest data science projects featuring modern ML techniques, advanced analytics, and real-world problem solving with Python and Jupyter notebooks.
+### ⚽ [Football Analysis](https://github.com/ChrisLee1901/football_analysis)
+Sports analytics project analyzing football data with statistical modeling and data visualization to extract meaningful insights from match statistics.
 
-### 📊 [Statistical Analysis Suite](https://github.com/ChrisLee1901/Statistics)
-Recent statistical modeling projects with focus on predictive analytics, hypothesis testing, and data visualization using cutting-edge statistical methods.
+### 📄 [RAG PDF Reader with Gemini](https://github.com/ChrisLee1901/Rag-read-pdf-file-using-gemini)
+AI-powered document processing application using Retrieval-Augmented Generation (RAG) and Google's Gemini AI to intelligently read and analyze PDF files.
 
-### 📝 [Academic Assignments](https://github.com/ChrisLee1901/Assignment)
-Collection of recent academic work and research projects showcasing advanced data analysis techniques and methodological approaches.
+### 🎮 [Rock Paper Scissors Game](https://github.com/ChrisLee1901/rock_paper_scissor_game)
+Interactive game implementation with clean code structure and user-friendly interface, demonstrating fundamental programming concepts.
 
 ## 📈 GitHub Stats
 
@@ -51,11 +51,11 @@ Collection of recent academic work and research projects showcasing advanced dat
 </div>
 
 ## 🌱 Currently Working On
-- 🤖 **AI-Powered Document Processing** - Developing advanced notebook and content management systems
-- 📊 **Modern Data Science Pipelines** - Building scalable ML workflows with latest Python libraries
-- 🔍 **Advanced Statistical Modeling** - Exploring cutting-edge statistical techniques and methodologies
-- 🌐 **Full-Stack AI Applications** - Integrating TypeScript/JavaScript with Python backend services
-- 🎯 **Research & Academic Projects** - Contributing to academic research in data science and statistics
+- 🏆 **Competitive Data Science** - Participating in Kaggle competitions and ML challenges
+- ⚽ **Sports Analytics** - Analyzing sports data for insights and predictions
+- 🤖 **AI Document Processing** - Building RAG systems with modern AI models
+- 🎮 **Interactive Applications** - Creating engaging user experiences with clean code
+- 📊 **Data Visualization** - Transforming complex data into meaningful visual stories
 
 ## 📫 Let's Connect!
 - 💼 Open to collaboration on data science and software development projects
