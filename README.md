@@ -1,7 +1,7 @@
 # Hi there, I'm Chris Lee! 👋
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist** and **Software Developer** who loves solving complex problems through code and data. I enjoy exploring new technologies, building practical applications, and turning ideas into reality through programming and analytics.
+I'm studying **Data Science** and **Software Developer** who loves solving complex problems through code and data. I enjoy exploring new technologies, building practical applications, and turning ideas into reality through programming and analytics.
 
 ## 🔧 Technologies & Tools
 
