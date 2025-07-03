@@ -1,7 +1,12 @@
 # Hi there, I'm Chris Lee! 👋
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist** and **Software Developer** with a strong focus on statistical analysis, machine learning, and data-driven solutions. I love turning complex data into actionable insights and building innovative applications.
+I study **Data Engineering** and **Full-Stack Developer** specializing in AI-powered applications and advanced statistical analysis. With a strong focus on statistical analysis, machine learning, and data-driven solutions. I love turning complex data into actionable insights and building innovative applications.
+### 🎯 Current Focus Areas:
+- **AI/ML Integration**: Building TypeScript applications with Python ML backends
+- **Statistical Research**: Advanced modeling and academic research projects  
+- **Modern Data Science**: Latest Python libraries and ML methodologies
+- **Academic Excellence**: Contributing to research and educational projects
 
 ## 🔧 Technologies & Tools
 
@@ -21,19 +26,19 @@ I'm a passionate **Data Scientist** and **Software Developer** with a strong foc
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 Featured Projects
+## 📊 Recent Projects
 
-### 🔬 [DataScienceProject](https://github.com/ChrisLee1901/DataScienceProject)
-Comprehensive data science projects showcasing end-to-end machine learning workflows, from data preprocessing to model deployment.
+### 🤖 [NotebookLM Mastra](https://github.com/ChrisLee1901/notebooklm-mastra) *Latest*
+Advanced TypeScript application integrating AI-powered document processing and notebook management. Features modern web technologies and intelligent content analysis capabilities.
 
-### 📈 [Statistics](https://github.com/ChrisLee1901/Statistics)
-Statistical analysis projects demonstrating various statistical methods, hypothesis testing, and data visualization techniques.
+### 🔬 [Data Science Portfolio](https://github.com/ChrisLee1901/Data_Science) *Updated*
+Latest data science projects featuring modern ML techniques, advanced analytics, and real-world problem solving with Python and Jupyter notebooks.
 
-### 🎮 [Simple Blackjack](https://github.com/ChrisLee1901/simple_blackjack)
-A Python implementation of the classic Blackjack card game with clean code structure and game logic.
+### 📊 [Statistical Analysis Suite](https://github.com/ChrisLee1901/Statistics)
+Recent statistical modeling projects with focus on predictive analytics, hypothesis testing, and data visualization using cutting-edge statistical methods.
 
-### 🤖 [NotebookLM Mastra](https://github.com/ChrisLee1901/notebooklm-mastra)
-TypeScript project exploring AI-powered notebook and document processing capabilities.
+### 📝 [Academic Assignments](https://github.com/ChrisLee1901/Assignment)
+Collection of recent academic work and research projects showcasing advanced data analysis techniques and methodological approaches.
 
 ## 📈 GitHub Stats
 
@@ -45,12 +50,12 @@ TypeScript project exploring AI-powered notebook and document processing capabil
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLee1901&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌱 Current Focus
-- 📊 Advanced Machine Learning techniques
-- 🧠 Deep Learning and Neural Networks  
-- 📈 Statistical Modeling and Analysis
-- 🌐 Full-stack Development with modern frameworks
-- 🤖 AI/ML applications in real-world scenarios
+## 🌱 Currently Working On
+- 🤖 **AI-Powered Document Processing** - Developing advanced notebook and content management systems
+- 📊 **Modern Data Science Pipelines** - Building scalable ML workflows with latest Python libraries
+- 🔍 **Advanced Statistical Modeling** - Exploring cutting-edge statistical techniques and methodologies
+- 🌐 **Full-Stack AI Applications** - Integrating TypeScript/JavaScript with Python backend services
+- 🎯 **Research & Academic Projects** - Contributing to academic research in data science and statistics
 
 ## 📫 Let's Connect!
 - 💼 Open to collaboration on data science and software development projects
